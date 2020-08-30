@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hi there my name is  Glauco 👋
 
+<p align="center"><a href="https://github.com"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="10%" height="10%"></a></p> 
 
-
+I'm an enthusiast of Machine Learning and aspiring Deep Learning Researcher :pencil:. Interested in working on Data Scientist. Some API's of Machine Learning I use (TensorFlow, Keras, Pytorch, Scikit-learn) .
 
 <!--
 **neemiasbsilva/neemiasbsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
