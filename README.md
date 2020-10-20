@@ -6,7 +6,12 @@ I'm an enthusiast of Machine Learning and aspiring Deep Learning Researcher :pen
 
 ## Programming Languages :computer:
 
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width="9%" height="10%"></a> 
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" />][https://github.com/glauco-endrigo]
+
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][https://github.com/glauco-endrigo]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][https://github.com/glauco-endrigo]
+
+
 ## Frameworks :rocket:
 
 <a href="https://www.tensorflow.org"><img src="https://www.gstatic.com/devrel-devsite/prod/vbf66214f2f7feed2e5d8db155bab9ace53c57c494418a1473b23972413e0f3ac/tensorflow/images/lockup.svg" width="30%" height="10%"></a> <a href="https://keras.io"><img src="https://keras.io/img/logo.png" width="23%" height="10%"></a> <a href="https://pytorch.org"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="8%" height="10%"></a>
