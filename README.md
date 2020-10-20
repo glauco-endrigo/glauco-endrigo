@@ -17,7 +17,10 @@ I'm an enthusiast of Machine Learning and aspiring Deep Learning Researcher :pen
 
 ## Frameworks :rocket:
 
-<a href="https://www.tensorflow.org"><img src="https://www.gstatic.com/devrel-devsite/prod/vbf66214f2f7feed2e5d8db155bab9ace53c57c494418a1473b23972413e0f3ac/tensorflow/images/lockup.svg" width="30%" height="10%"></a> <a href="https://keras.io"><img src="https://keras.io/img/logo.png" width="23%" height="10%"></a> <a href="https://pytorch.org"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="8%" height="10%"></a>
+<img align="left" alt="GitHub" width="26px" src="https://www.gstatic.com/devrel-devsite/prod/vbf66214f2f7feed2e5d8db155bab9ace53c57c494418a1473b23972413e0f3ac/tensorflow/images/lockup.svg" />
+
+<img align="left" alt="GitHub" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
+
 
 
 ## Tools :fire:
