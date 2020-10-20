@@ -1,5 +1,3 @@
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-
 ### Hi there my name is  Glauco 👋
 
 <p align="center"><a href="https://github.com"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="10%" height="10%"></a></p> 
@@ -30,11 +28,9 @@ I'm an enthusiast of Machine Learning and aspiring Deep Learning Researcher :pen
 
 <img align="left" alt="GitHub" width="26px" src="https://camo.githubusercontent.com/2c3a10f57365a330cc092e2c32942ff28474495a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6769746875622d2d696d616765732e61707073706f742e636f6d2f6f2f476974687562253230696d6167657325324632353233312e7376673f616c743d6d6564696126746f6b656e3d65663262653632372d303461362d346638302d616662612d626632323432383164333561" />
 
+<img align="left" alt="GitHub" width="26px" src="https://www.egi.eu/wp-content/uploads/2017/04/project_jupyter.png" />
 
-
-<a href="https://github.com"><img src="https://camo.githubusercontent.com/2c3a10f57365a330cc092e2c32942ff28474495a/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6769746875622d2d696d616765732e61707073706f742e636f6d2f6f2f476974687562253230696d6167657325324632353233312e7376673f616c743d6d6564696126746f6b656e3d65663262653632372d303461362d346638302d616662612d626632323432383164333561" width="8%" height="10%"></a>
-<a href="https://www.egi.eu/use-cases/scientific-applications-tools/the-jupyter-notebook/"><img src="https://www.egi.eu/wp-content/uploads/2017/04/project_jupyter.png" width="8%" height="10%"></a>
-<a href="https://docs.conda.io/en/latest/"><img src="https://docs.conda.io/en/latest/_images/conda_logo.svg" width="35%" height="10%"></a>
+<img align="left" alt="GitHub" width="26px" src="https://docs.conda.io/en/latest/_images/conda_logo.svg" />
 
 <!--
 **neemiasbsilva/neemiasbsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
