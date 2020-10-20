@@ -1,7 +1,5 @@
 ### Hi there my name is  Glauco 👋
 
-<p align="center"><a href="https://github.com"><img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width="10%" height="10%"></a></p> 
-
 I'm an enthusiast of Machine Learning and aspiring Deep Learning Researcher :pencil:. Interested in working as a Data Scientist. Some API's of Machine Learning I use (TensorFlow, Keras, Pytorch, Scikit-learn) .
 
 ## Programming Languages :computer:
@@ -30,7 +28,7 @@ I'm an enthusiast of Machine Learning and aspiring Deep Learning Researcher :pen
 
 <img align="left" alt="GitHub" width="26px" src="https://www.egi.eu/wp-content/uploads/2017/04/project_jupyter.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://docs.conda.io/en/latest/_images/conda_logo.svg" />
+<img align="left" alt="GitHub"  width="10%" height="10%"  src="https://docs.conda.io/en/latest/_images/conda_logo.svg" />
 
 <!--
 **neemiasbsilva/neemiasbsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
