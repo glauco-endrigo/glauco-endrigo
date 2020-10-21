@@ -1,6 +1,6 @@
 ### Hi there my name is  Glauco 👋
 
-I'm an enthusiast of Machine Learning and aspiring Deep Learning Researcher :pencil:. Interested in working as a Data Scientist. Some API's of Machine Learning I use (TensorFlow, Keras, Pytorch, Scikit-learn) .
+I'm an enthusiast of Machine Learning and aspiring Deep Learning and Analytics.
 
 ## Programming Languages :computer:
 
