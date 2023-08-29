@@ -1,6 +1,6 @@
 ### Hi there my name is  Glauco 👋
 
-I'm an enthusiast of Machine Learning, aspiring Deep Learning and Analytics.
+
 
 ## Programming Languages :computer:
 
